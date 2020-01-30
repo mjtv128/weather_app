@@ -1,5 +1,7 @@
 Weather App
 
+run ```npm install``` then ```node app.js```
+
 A web application that gives the weather forecast based on your location input.
 
 The front end in the browser asks for the user to provide a location.
